@@ -1,0 +1,21 @@
+# API & server
+flask
+flask-cors
+
+# RAG pipeline
+faiss-cpu
+sentence-transformers
+rank-bm25
+google-genai
+
+# Data processing
+pandas
+numpy
+python-dotenv
+
+# Scraper
+selenium
+webdriver-manager
+beautifulsoup4
+lxml
+requests
